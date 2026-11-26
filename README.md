@@ -13,3 +13,9 @@ Outside of my professional work, I’m passionate about game development and cre
 🎮 Creator of Spheric Bombs available on Steam https://store.steampowered.com/app/2771650/Spheric_Bombs/
 
 🎮 Creator of Rogue Battler available on Steam https://store.steampowered.com/app/4527990/Rogue_Battler/
+
+🛠️ Creator of [ZeroFiascko](https://github.com/fiascko/ZeroFiascko), a local-first project management tool.
+
+🛡️ Creator of [ReverseFiascko](https://github.com/fiascko/ReverseFiascko), a Unity Editor toolkit for build security.
+
+⚙️ Creator of [CleanFiascko](https://github.com/fiascko/CleanFiascko), a collection of personal AI coding skills.
