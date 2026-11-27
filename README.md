@@ -18,4 +18,4 @@ Outside of my professional work, I’m passionate about game development and cre
 
 🛡️ Creator of [ReverseFiascko](https://github.com/fiascko/ReverseFiascko), a Unity Editor toolkit for build security.
 
-⚙️ Creator of [CleanFiascko](https://github.com/fiascko/CleanFiascko), a collection of personal AI coding skills.
+⚙️ Creator of [CleanFiascko](https://github.com/fiascko/CleanFiascko), a collection of AI assistant skills for secure, developer-controlled, chat-based development.
